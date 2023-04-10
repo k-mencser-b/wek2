@@ -1,9 +1,6 @@
 
 
-/*const button = document.querySelector('button');
-button.addEventListener('click', (ev)=>{
-    document.querySelector('h1').style.color='red';
-});*/
+
 
 $(document).ready(function(){
     $(".proba").mouseenter(function(){
